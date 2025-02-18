@@ -6,7 +6,9 @@
 <h3 align="center"> A passionate Software Tester from India </h3>
 
 # 💫 About Me:
-Hello 👋, Everyone!<br>I am Babita Yadav, a certified Java developer who designs, develops, and manages Java-based applications and software.<br><br>#About Me<br><br>🔭 I’m currently looking for an opportunity to showcase my skills and wanted to grow along with the developer community.<br>🌱 I've competed my internship in Core and Advance Java from AppSquadz Software Pvt. Ltd..
+Hello 👋, Everyone!<br>"I am Babita Yadav, an experienced Software Tester skilled in manual and automation testing. I specialize in designing, executing, and managing test cases for ensuring software quality. Proficient in Selenium WebDriver, Java, API testing, and defect tracking using JIRA, I work on identifying bugs, automating test processes, and improving application performance to deliver reliable software solutions.".<br><br>#About Me<br><br>🔭 Software Test Engineer with 3+ years of experience in Java-based test automation. Skilled in Selenium
+WebDriver (Java), API testing with Postman, and defect tracking using Jira. Proficient in end-to-end
+functional testing, regression testing, and performance validation of enterprise applications.
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babita123y&label=Profile%20views&color=0e75b6&style=flat" alt="babita123y" /> </p>
