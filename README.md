@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Babita Yadav </h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center"> A passionate Software Tester from India </h3>
 
 # 💫 About Me:
 Hello 👋, Everyone!<br>I am Babita Yadav, a certified Java developer who designs, develops, and manages Java-based applications and software.<br><br>#About Me<br><br>🔭 I’m currently looking for an opportunity to showcase my skills and wanted to grow along with the developer community.<br>🌱 I've competed my internship in Core and Advance Java from AppSquadz Software Pvt. Ltd..
